@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GradeCalculatorApp
+namespace MyApp
 {
     public class GradeCalculator
     {
