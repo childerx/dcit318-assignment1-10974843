@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/bin/Debug/net7.0/assignment-1
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/bin/Debug/net7.0/assignment-1.deps.json
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/bin/Debug/net7.0/assignment-1.runtimeconfig.json
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/bin/Debug/net7.0/assignment-1.dll
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/bin/Debug/net7.0/assignment-1.pdb
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/assignment-1.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/assignment-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/assignment-1.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/assignment-1.AssemblyInfo.cs
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/assignment-1.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/assignment-1.dll
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/refint/assignment-1.dll
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/assignment-1.pdb
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/assignment-1.genruntimeconfig.cache
+/Users/macbook/Desktop/L300/sec-sem/318/dcit318-assignment1-10974843/assignment-1/assignment-1/obj/Debug/net7.0/ref/assignment-1.dll
